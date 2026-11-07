@@ -12,5 +12,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Peran Pustakawan](ebook/Peran Pustakawan.pdf) – Joko S. (2021)
 9. [Perpustakaan sebagai Tempat Rekreasi Informasi](ebook/Perpustakaan sebagai Tempat Rekreasi Informasi.pdf) – Sri E. (2022)
 10. [Perkembangan Perpustakaan](ebook/Perkembangan Perpustakaan.pdf) – Nurhayati N. (2018)
+11. [Ringkasan UGC PATI](ebook/Ringkasan UGC PATI.pdf) - Anggun A. (2026)
+    
+    
 ---
 *Powered by GitHub Pages*
