@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi E-book
-1. [Dengar Suara Apa itu](ebook/Dengar Suara Apa itu.pdf) – Novel M. (2022)
+1. [Mengapa Diam Saja](ebook/Mengapa Diam Saja.pdf) – Felicia A. (2022)
 2. [Kau Sedang Apa Lala](ebook/Kau Sedang Apa Lala.pdf) – Widya R. (2022)
 3. [Lihat Kebunku](ebook/Lihat Kebunku.pdf) – Flora M. (2022)
 4. [Mimpi Loni](ebook/Mimpi Loni.pdf) – Teti U. (2022)
